@@ -1,5 +1,5 @@
 # gqlmap
-This tool creates a graph representation of GraphQL types and allows you to perform queries on those relationships
+This tool creates a graph representation of GraphQL types and allows you to run queries on those relationships
 
 - Tested using Python 3.8.9 and Neo4j Desktop 4.4.5
 
